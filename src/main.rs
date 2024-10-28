@@ -1,4 +1,6 @@
 mod app;
+mod pages;
+mod routes;
 use app::AdminPanel;
 
 
